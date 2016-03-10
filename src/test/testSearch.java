@@ -1,15 +1,14 @@
 package test;
 
-import java.util.Iterator;
-
 import graph.Arc;
 import graph.Graph;
 import graph.IDirectedGraph;
-import graph.IGraph;
 import graph.IUndirectedGraph;
 import graph.Node;
 import graph.StringLabel;
 import graph.UndirectedGraph;
+
+import java.util.Iterator;
 
 public class testSearch {
 
